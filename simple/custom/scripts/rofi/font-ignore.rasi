@@ -1,0 +1,6 @@
+/* fonts */
+
+* {
+  font-main: "HackGenNerd 16";
+  font-element: "ヒラギノ角ゴ ProN W6 16";
+}
